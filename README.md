@@ -8,7 +8,7 @@
 
 ## Project Screenshot
 
-
+![Website Screenshot](https://github.com/yavuzkarakus/nikeWebsiteExercise/blob/master/nike-website-exercise-full-page.png)
 
 ## Project Features
 
