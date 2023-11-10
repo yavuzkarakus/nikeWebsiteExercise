@@ -15,6 +15,7 @@
 🚀 The key features of this project are as follows:
 - Offers an alternative view of the Nike website.
 - Includes React hooks and React component structures.
+- Components have been created using JSX in the project.
 - Utilizes Tailwind CSS.
 - Mobile-friendly responsive design.
 
